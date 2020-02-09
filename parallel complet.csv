@@ -1,0 +1,60 @@
+5242880 matrix size ,,,,,
+4 nb of processes,0:01.89,0:01.91elapsed,0:01.89elapsed,0:01.89elapsed,0:01.91elapsed
+8 nb of processes,1:01.89elapsed,0:01.99elapsed,0:02.01elapsed,0:02.04elapsed,0:01.99elapsed
+16 nb of processes,2:01.89elapsed,0:02.27elapsed,0:02.31elapsed,0:02.34elapsed,0:02.31elapsed
+32 nb of processes,3:01.89elapsed,0:02.36elapsed,0:02.40elapsed,0:02.37elapsed,0:02.37elapsed
+64 nb of processes,4:01.89elapsed,0:02.42elapsed,0:02.36elapsed,0:02.36elapsed,0:02.42elapsed
+26214400 matrix size ,,,,,
+4 nb of processes,0:04.53elapsed,0:04.48elapsed,0:04.51elapsed,0:04.49elapsed,0:04.47elapsed
+8 nb of processes,0:04.81elapsed,0:04.80elapsed,0:04.76elapsed,0:04.71elapsed,0:04.74elapsed
+16 nb of processes,0:05.22elapsed,0:05.26elapsed,0:05.23elapsed,0:05.33elapsed,0:05.35elapsed
+32 nb of processes,0:05.56elapsed,0:05.38elapsed,0:05.45elapsed,0:05.38elapsed,0:05.35elapsed
+64 nb of processes,0:05.38elapsed,0:05.42elapsed,0:05.45elapsed,0:05.43elapsed,0:05.43elapsed
+131072000 matrix size ,,,,,
+4 nb of processes,0:17.42elapsed,0:17.23elapsed,0:17.82elapsed,0:17.19elapsed,0:17.32elapsed
+8 nb of processes,0:18.78elapsed,0:18.69elapsed,0:18.60elapsed,0:18.51elapsed,0:18.54elapsed
+16 nb of processes,0:20.72elapsed,0:20.70elapsed,0:20.55elapsed,0:20.37elapsed,0:20.73elapsed
+32 nb of processes,0:20.91elapsed,0:20.91elapsed,0:21.15elapsed,0:20.56elapsed,0:20.89elapsed
+64 nb of processes,0:20.76elapsed,0:20.88elapsed,0:20.91elapsed,0:20.92elapsed,0:20.72elapsed
+655360000 matrix size ,,,,,
+4 nb of processes,1:25.26elapsed,1:26.35elapsed,1:25.43elapsed,1:25.19elapsed,1:25.29elapsed
+8 nb of processes,1:30.57elapsed,1:30.16elapsed,1:30.43elapsed,1:32.19elapsed,1:30.88elapsed
+16 nb of processes,1:40.18elapsed,1:40.37elapsed,1:39.79elapsed,1:41.04elapsed,1:38.40elapsed
+32 nb of processes,1:39.38elapsed,1:40.39elapsed,1:39.90elapsed,1:39.73elapsed,1:40.80elapsed
+64 nb of processes,1:40.02elapsed,1:39.93elapsed,1:39.93elapsed,1:40.27elapsed,1:40.28elapsed
+32768 matrix size,,,,,
+4 nb of processes,0:00.84elapsed,0:00.84elapsed,0:00.85elapsed,0:00.84elapsed,0:00.84elapsed
+8 nb of processes,0:00.92elapsed,0:00.91elapsed,0:00.91elapsed,0:00.91elapsed,0:00.91elapsed
+16 nb of processes,0:01.09elapsed,0:01.07elapsed,0:01.07elapsed,0:01.08elapsed,0:01.08elapsed
+32 nb of processes,0:01.60elapsed,0:01.60elapsed,0:01.59elapsed,0:01.59elapsed,0:01.59elapsed
+64 nb of processes,0:01.58elapsed,0:01.59elapsed,0:01.59elapsed,0:01.64elapsed,0:01.57elapsed
+65536 matrix size,,,,,
+4 nb of processes,0:00.84elapsed,0:00.84elapsed,0:00.84elapsed,0:00.84elapsed,0:00.84elapsed
+8 nb of processes,0:00.92elapsed,0:00.92elapsed,0:00.91elapsed,0:00.91elapsed,0:00.91elapsed
+16 nb of processes,0:01.08elapsed,0:01.08elapsed,0:01.08elapsed,0:01.08elapsed,0:01.07elapsed
+32 nb of processes,0:01.60elapsed,0:01.64elapsed,0:01.60elapsed,0:01.75elapsed,0:01.60elapsed
+64 nb of processes,0:01.57elapsed,0:01.58elapsed,0:01.63elapsed,0:01.64elapsed,0:01.59elapsed
+131072 matrix size,,,,,
+4 nb of processes,0:00.84elapsed,0:00.84elapsed,0:00.84elapsed,0:00.85elapsed,0:00.85elapsed
+8 nb of processes,0:00.91elapsed,0:00.92elapsed,0:00.91elapsed,0:00.91elapsed,0:00.92elapsed
+16 nb of processes,0:01.08elapsed,0:01.10elapsed,0:01.09elapsed,0:01.08elapsed,0:01.08elapsed
+32 nb of processes,0:01.60elapsed,0:01.59elapsed,0:01.60elapsed,0:01.61elapsed,0:01.59elapsed
+64 nb of processes,0:01.60elapsed,0:01.61elapsed,0:01.60elapsed,0:01.65elapsed,0:01.62elapsed
+262144 matrix size,,,,,
+4 nb of processes,0:00.85elapsed,0:00.85elapsed,0:00.85elapsed,0:00.85elapsed,0:00.84elapsed
+8 nb of processes,0:00.92elapsed,0:00.91elapsed,0:00.91elapsed,0:00.92elapsed,0:00.91elapsed
+16 nb of processes,0:01.09elapsed,0:01.11elapsed,0:01.08elapsed,0:01.09elapsed,0:01.08elapsed
+32 nb of processes,0:01.61elapsed,0:01.62elapsed,0:01.67elapsed,0:01.62elapsed,0:01.61elapsed
+64 nb of processes,0:01.61elapsed,0:01.62elapsed,0:01.61elapsed,0:01.63elapsed,0:01.62elapsed
+524288 matrix size,,,,,
+4 nb of processes,0:00.86elapsed,0:00.85elapsed,0:00.85elapsed,0:00.86elapsed,0:00.86elapsed
+8 nb of processes,0:00.92elapsed,0:00.92elapsed,0:00.92elapsed,0:00.93elapsed,0:00.93elapsed
+16 nb of processes,0:01.09elapsed,0:01.10elapsed,0:01.09elapsed,0:01.09elapsed,0:01.10elapsed
+32 nb of processes,0:01.61elapsed,0:01.57elapsed,0:01.58elapsed,0:01.61elapsed,0:01.59elapsed
+64 nb of processes,0:01.61elapsed,0:01.59elapsed,0:01.59elapsed,0:01.60elapsed,0:01.60elapsed
+1048576 matrix size,,,,,
+4 nb of processes,0:00.86elapsed,0:00.88elapsed,0:00.87elapsed,0:00.88elapsed,0:00.86elapsed
+8 nb of processes,0:00.93elapsed,0:00.93elapsed,0:00.94elapsed,0:00.94elapsed,0:00.94elapsed
+16 nb of processes,0:01.11elapsed,0:01.11elapsed,0:01.10elapsed,0:01.11elapsed,0:01.10elapsed
+32 nb of processes,0:01.60elapsed,0:01.61elapsed,0:01.59elapsed,0:01.58elapsed,0:01.57elapsed
+64 nb of processes,0:01.61elapsed,0:01.61elapsed,0:01.61elapsed,0:01.61elapsed,0:01.61elapsed

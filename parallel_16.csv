@@ -1,0 +1,4 @@
+32768 matrix size;0:01.09elapsed;0:01.07elapsed;0:01.07elapsed;0:01.08elapsed;0:01.08elapsed;
+65536 matrix size;0:01.08elapsed;0:01.08elapsed;0:01.08elapsed;0:01.08elapsed;0:01.07elapsed;
+131072 matrix size;0:01.08elapsed;0:01.10elapsed;0:01.09elapsed;0:01.08elapsed;0:01.08elapsed;
+262144 matrix size;0:01.09elapsed;0:01.11elapsed;0:01.08elapsed;0:01.09elapsed;0:01.08elapsed;
